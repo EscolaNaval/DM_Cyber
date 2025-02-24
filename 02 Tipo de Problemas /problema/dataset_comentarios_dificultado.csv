@@ -1,0 +1,501 @@
+ID,Comentário,Origem,Data do Comentário,Número de Likes,Resposta da Empresa,Tempo de Resposta (horas)
+1,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Trustpilot,2023-01-01,442,Não,
+2,A encomenda demorou muito mais do que o prometido.,Trustpilot,2023-01-02,128,Não,
+3,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Trustpilot,2023-01-03,10,Sim,3.0
+4,Fiz uma reclamação e não obtive resposta até hoje.,Site Oficial,2023-01-04,128,Sim,20.0
+5,O atendimento ao cliente é muito lento e pouco prestável.,Facebook,2023-01-05,87,Sim,17.0
+6,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Facebook,2023-01-06,84,Não,
+7,Fiz uma reclamação e não obtive resposta até hoje.,Google Reviews,2023-01-07,499,Não,
+8,"Adorei a experiência, desde a compra até a entrega.",Google Reviews,2023-01-08,242,Sim,8.0
+9,A qualidade do produto não corresponde ao que foi anunciado.,Trustpilot,2023-01-09,119,Sim,72.0
+10,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Twitter,2023-01-10,223,Não,
+11,"Muito satisfeito com a compra, recomendo a todos.",Site Oficial,2023-01-11,298,Não,
+12,"Muito satisfeito com a compra, recomendo a todos.",Facebook,2023-01-12,116,Sim,6.0
+13,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Site Oficial,2023-01-13,207,Sim,34.0
+14,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Site Oficial,2023-01-14,322,Sim,1.0
+15,O produto veio com defeito e não me deram solução.,Twitter,2023-01-15,482,Não,
+16,"Nunca mais compro aqui, experiência horrível!",Twitter,2023-01-16,327,Sim,48.0
+17,"Entrega rápida e eficiente, voltarei a comprar.",Google Reviews,2023-01-17,8,Sim,1.0
+18,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Twitter,2023-01-18,400,Sim,38.0
+19,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Site Oficial,2023-01-19,171,Não,
+20,A encomenda demorou muito mais do que o prometido.,Twitter,2023-01-20,221,Não,
+21,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Site Oficial,2023-01-21,296,Não,
+22,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Facebook,2023-01-22,202,Sim,45.0
+23,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Facebook,2023-01-23,375,Não,
+24,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Twitter,2023-01-24,380,Não,
+25,O produto veio com defeito e não me deram solução.,Twitter,2023-01-25,372,Não,
+26,"Demoraram muito para processar o pagamento, foi frustrante.",Trustpilot,2023-01-26,22,Sim,1.0
+27,O atendimento ao cliente é muito lento e pouco prestável.,Twitter,2023-01-27,151,Sim,60.0
+28,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Facebook,2023-01-28,98,Sim,45.0
+29,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Trustpilot,2023-01-29,197,Não,
+30,"Adorei a experiência, desde a compra até a entrega.",Site Oficial,2023-01-30,301,Sim,61.0
+31,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Trustpilot,2023-01-31,341,Sim,30.0
+32,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Facebook,2023-02-01,450,Não,
+33,O atendimento foi excelente e muito rápido!,Facebook,2023-02-02,97,Sim,25.0
+34,"Adorei a experiência, desde a compra até a entrega.",Twitter,2023-02-03,475,Sim,60.0
+35,"Muito satisfeito com a compra, recomendo a todos.",Site Oficial,2023-02-04,241,Sim,65.0
+36,Fiz uma reclamação e não obtive resposta até hoje.,Google Reviews,2023-02-05,482,Sim,22.0
+37,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Site Oficial,2023-02-06,226,Sim,47.0
+38,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Facebook,2023-02-07,13,Sim,43.0
+39,"Muito satisfeito com a compra, recomendo a todos.",Trustpilot,2023-02-08,495,Não,
+40,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Trustpilot,2023-02-09,27,Sim,55.0
+41,"Muito satisfeito com a compra, recomendo a todos.",Google Reviews,2023-02-10,322,Sim,28.0
+42,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Trustpilot,2023-02-11,411,Não,
+43,O atendimento foi excelente e muito rápido!,Twitter,2023-02-12,172,Não,
+44,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Facebook,2023-02-13,355,Não,
+45,O atendimento ao cliente é muito lento e pouco prestável.,Twitter,2023-02-14,319,Não,
+46,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Google Reviews,2023-02-15,108,Sim,34.0
+47,"Produto de ótima qualidade, superou as minhas expectativas.",Trustpilot,2023-02-16,180,Não,
+48,A encomenda demorou muito mais do que o prometido.,Google Reviews,2023-02-17,495,Sim,31.0
+49,O produto veio com defeito e não me deram solução.,Google Reviews,2023-02-18,195,Não,
+50,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Trustpilot,2023-02-19,51,Não,
+51,Fiz uma reclamação e não obtive resposta até hoje.,Trustpilot,2023-02-20,411,Não,
+52,A encomenda demorou muito mais do que o prometido.,Trustpilot,2023-02-21,203,Sim,12.0
+53,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Google Reviews,2023-02-22,482,Não,
+54,A encomenda demorou muito mais do que o prometido.,Facebook,2023-02-23,318,Não,
+55,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Facebook,2023-02-24,249,Sim,46.0
+56,A qualidade do produto não corresponde ao que foi anunciado.,Twitter,2023-02-25,486,Não,
+57,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Facebook,2023-02-26,283,Não,
+58,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Facebook,2023-02-27,157,Sim,7.0
+59,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Twitter,2023-02-28,365,Sim,30.0
+60,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Site Oficial,2023-03-01,3,Não,
+61,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Site Oficial,2023-03-02,309,Sim,18.0
+62,"Demoraram muito para processar o pagamento, foi frustrante.",Google Reviews,2023-03-03,7,Não,
+63,"Adorei a experiência, desde a compra até a entrega.",Google Reviews,2023-03-04,152,Não,
+64,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Site Oficial,2023-03-05,268,Não,
+65,A encomenda demorou muito mais do que o prometido.,Facebook,2023-03-06,211,Sim,65.0
+66,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Google Reviews,2023-03-07,293,Não,
+67,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Twitter,2023-03-08,212,Não,
+68,A qualidade do produto não corresponde ao que foi anunciado.,Trustpilot,2023-03-09,110,Sim,38.0
+69,A qualidade do produto não corresponde ao que foi anunciado.,Site Oficial,2023-03-10,189,Não,
+70,"Adorei a experiência, desde a compra até a entrega.",Facebook,2023-03-11,239,Não,
+71,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Trustpilot,2023-03-12,25,Sim,0.0
+72,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Facebook,2023-03-13,370,Sim,35.0
+73,O atendimento ao cliente é muito lento e pouco prestável.,Trustpilot,2023-03-14,66,Sim,64.0
+74,O produto veio com defeito e não me deram solução.,Twitter,2023-03-15,492,Não,
+75,O atendimento foi excelente e muito rápido!,Facebook,2023-03-16,206,Não,
+76,O produto veio com defeito e não me deram solução.,Trustpilot,2023-03-17,414,Não,
+77,A qualidade do produto não corresponde ao que foi anunciado.,Google Reviews,2023-03-18,423,Não,
+78,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Twitter,2023-03-19,19,Sim,13.0
+79,"Entrega rápida e eficiente, voltarei a comprar.",Twitter,2023-03-20,148,Não,
+80,"Entrega rápida e eficiente, voltarei a comprar.",Trustpilot,2023-03-21,46,Não,
+81,O produto veio com defeito e não me deram solução.,Facebook,2023-03-22,424,Não,
+82,O atendimento foi excelente e muito rápido!,Google Reviews,2023-03-23,183,Não,
+83,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Google Reviews,2023-03-24,452,Sim,68.0
+84,"Produto de ótima qualidade, superou as minhas expectativas.",Facebook,2023-03-25,72,Não,
+85,O produto veio com defeito e não me deram solução.,Trustpilot,2023-03-26,68,Não,
+86,"Adorei a experiência, desde a compra até a entrega.",Facebook,2023-03-27,312,Sim,12.0
+87,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Twitter,2023-03-28,108,Sim,2.0
+88,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Facebook,2023-03-29,255,Não,
+89,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Site Oficial,2023-03-30,240,Não,
+90,Fiz uma reclamação e não obtive resposta até hoje.,Site Oficial,2023-03-31,164,Não,
+91,A encomenda demorou muito mais do que o prometido.,Twitter,2023-04-01,461,Não,
+92,O produto veio com defeito e não me deram solução.,Facebook,2023-04-02,364,Não,
+93,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Site Oficial,2023-04-03,195,Não,
+94,"Nunca mais compro aqui, experiência horrível!",Trustpilot,2023-04-04,417,Sim,4.0
+95,"Adorei a experiência, desde a compra até a entrega.",Trustpilot,2023-04-05,286,Sim,48.0
+96,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Facebook,2023-04-06,308,Não,
+97,"Entrega rápida e eficiente, voltarei a comprar.",Site Oficial,2023-04-07,277,Não,
+98,O atendimento foi excelente e muito rápido!,Trustpilot,2023-04-08,329,Não,
+99,O atendimento ao cliente é muito lento e pouco prestável.,Trustpilot,2023-04-09,325,Sim,41.0
+100,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Twitter,2023-04-10,172,Sim,54.0
+101,"Nunca mais compro aqui, experiência horrível!",Facebook,2023-04-11,275,Sim,3.0
+102,A encomenda demorou muito mais do que o prometido.,Trustpilot,2023-04-12,99,Sim,41.0
+103,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Site Oficial,2023-04-13,434,Não,
+104,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Google Reviews,2023-04-14,7,Sim,69.0
+105,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Twitter,2023-04-15,253,Não,
+106,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Facebook,2023-04-16,47,Não,
+107,"Muito satisfeito com a compra, recomendo a todos.",Trustpilot,2023-04-17,132,Sim,58.0
+108,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Facebook,2023-04-18,16,Sim,35.0
+109,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Twitter,2023-04-19,237,Sim,57.0
+110,"Muito satisfeito com a compra, recomendo a todos.",Facebook,2023-04-20,230,Sim,26.0
+111,O atendimento foi excelente e muito rápido!,Site Oficial,2023-04-21,415,Não,
+112,"Entrega rápida e eficiente, voltarei a comprar.",Facebook,2023-04-22,90,Não,
+113,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Facebook,2023-04-23,461,Sim,22.0
+114,A qualidade do produto não corresponde ao que foi anunciado.,Facebook,2023-04-24,425,Sim,24.0
+115,"Adorei a experiência, desde a compra até a entrega.",Google Reviews,2023-04-25,86,Sim,18.0
+116,A encomenda demorou muito mais do que o prometido.,Twitter,2023-04-26,492,Não,
+117,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Twitter,2023-04-27,424,Sim,3.0
+118,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Trustpilot,2023-04-28,120,Não,
+119,"Produto de ótima qualidade, superou as minhas expectativas.",Site Oficial,2023-04-29,165,Não,
+120,"Muito satisfeito com a compra, recomendo a todos.",Facebook,2023-04-30,322,Não,
+121,"Nunca mais compro aqui, experiência horrível!",Site Oficial,2023-05-01,73,Não,
+122,"Produto de ótima qualidade, superou as minhas expectativas.",Twitter,2023-05-02,203,Não,
+123,"Demoraram muito para processar o pagamento, foi frustrante.",Trustpilot,2023-05-03,399,Sim,1.0
+124,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Trustpilot,2023-05-04,480,Não,
+125,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Facebook,2023-05-05,392,Sim,9.0
+126,"Produto de ótima qualidade, superou as minhas expectativas.",Site Oficial,2023-05-06,145,Não,
+127,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Twitter,2023-05-07,278,Sim,44.0
+128,O atendimento foi excelente e muito rápido!,Site Oficial,2023-05-08,214,Não,
+129,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Trustpilot,2023-05-09,409,Não,
+130,Fiz uma reclamação e não obtive resposta até hoje.,Twitter,2023-05-10,381,Sim,65.0
+131,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Google Reviews,2023-05-11,376,Não,
+132,"Nunca mais compro aqui, experiência horrível!",Twitter,2023-05-12,479,Não,
+133,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Site Oficial,2023-05-13,333,Não,
+134,"Adorei a experiência, desde a compra até a entrega.",Google Reviews,2023-05-14,375,Não,
+135,"Adorei a experiência, desde a compra até a entrega.",Trustpilot,2023-05-15,491,Sim,2.0
+136,O atendimento foi excelente e muito rápido!,Site Oficial,2023-05-16,201,Sim,24.0
+137,"Produto de ótima qualidade, superou as minhas expectativas.",Trustpilot,2023-05-17,15,Sim,71.0
+138,Fiz uma reclamação e não obtive resposta até hoje.,Twitter,2023-05-18,313,Sim,47.0
+139,"Adorei a experiência, desde a compra até a entrega.",Facebook,2023-05-19,172,Não,
+140,"Muito satisfeito com a compra, recomendo a todos.",Trustpilot,2023-05-20,85,Não,
+141,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Site Oficial,2023-05-21,2,Não,
+142,O atendimento ao cliente é muito lento e pouco prestável.,Twitter,2023-05-22,206,Sim,22.0
+143,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Google Reviews,2023-05-23,438,Não,
+144,A encomenda demorou muito mais do que o prometido.,Trustpilot,2023-05-24,279,Sim,64.0
+145,O produto veio com defeito e não me deram solução.,Site Oficial,2023-05-25,361,Não,
+146,O atendimento foi excelente e muito rápido!,Trustpilot,2023-05-26,133,Não,
+147,"Adorei a experiência, desde a compra até a entrega.",Facebook,2023-05-27,192,Não,
+148,"Muito satisfeito com a compra, recomendo a todos.",Twitter,2023-05-28,47,Não,
+149,"Nunca mais compro aqui, experiência horrível!",Twitter,2023-05-29,181,Não,
+150,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Trustpilot,2023-05-30,389,Não,
+151,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Facebook,2023-05-31,121,Não,
+152,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Facebook,2023-06-01,266,Não,
+153,"Produto de ótima qualidade, superou as minhas expectativas.",Site Oficial,2023-06-02,45,Não,
+154,"Produto de ótima qualidade, superou as minhas expectativas.",Google Reviews,2023-06-03,215,Não,
+155,A qualidade do produto não corresponde ao que foi anunciado.,Twitter,2023-06-04,341,Não,
+156,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Facebook,2023-06-05,10,Não,
+157,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Trustpilot,2023-06-06,43,Não,
+158,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Twitter,2023-06-07,314,Sim,25.0
+159,O atendimento ao cliente é muito lento e pouco prestável.,Site Oficial,2023-06-08,215,Não,
+160,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Google Reviews,2023-06-09,425,Não,
+161,"Nunca mais compro aqui, experiência horrível!",Trustpilot,2023-06-10,144,Sim,29.0
+162,O atendimento ao cliente é muito lento e pouco prestável.,Facebook,2023-06-11,8,Não,
+163,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Trustpilot,2023-06-12,430,Sim,67.0
+164,Fiz uma reclamação e não obtive resposta até hoje.,Twitter,2023-06-13,87,Não,
+165,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Facebook,2023-06-14,141,Sim,68.0
+166,"Demoraram muito para processar o pagamento, foi frustrante.",Trustpilot,2023-06-15,360,Não,
+167,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Site Oficial,2023-06-16,4,Sim,58.0
+168,"Muito satisfeito com a compra, recomendo a todos.",Site Oficial,2023-06-17,210,Sim,68.0
+169,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Trustpilot,2023-06-18,27,Sim,27.0
+170,"Adorei a experiência, desde a compra até a entrega.",Twitter,2023-06-19,447,Sim,6.0
+171,A qualidade do produto não corresponde ao que foi anunciado.,Trustpilot,2023-06-20,90,Sim,6.0
+172,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Facebook,2023-06-21,316,Sim,9.0
+173,O atendimento foi excelente e muito rápido!,Trustpilot,2023-06-22,94,Sim,55.0
+174,"Entrega rápida e eficiente, voltarei a comprar.",Google Reviews,2023-06-23,358,Sim,47.0
+175,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Google Reviews,2023-06-24,353,Não,
+176,"Produto de ótima qualidade, superou as minhas expectativas.",Google Reviews,2023-06-25,242,Sim,30.0
+177,O atendimento ao cliente é muito lento e pouco prestável.,Trustpilot,2023-06-26,316,Sim,31.0
+178,A encomenda demorou muito mais do que o prometido.,Twitter,2023-06-27,295,Sim,25.0
+179,"Entrega rápida e eficiente, voltarei a comprar.",Trustpilot,2023-06-28,13,Não,
+180,Fiz uma reclamação e não obtive resposta até hoje.,Google Reviews,2023-06-29,272,Não,
+181,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Facebook,2023-06-30,381,Sim,30.0
+182,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Facebook,2023-07-01,107,Sim,47.0
+183,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Trustpilot,2023-07-02,95,Não,
+184,A qualidade do produto não corresponde ao que foi anunciado.,Site Oficial,2023-07-03,16,Não,
+185,"Produto de ótima qualidade, superou as minhas expectativas.",Trustpilot,2023-07-04,245,Sim,45.0
+186,O atendimento foi excelente e muito rápido!,Google Reviews,2023-07-05,166,Não,
+187,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Google Reviews,2023-07-06,96,Não,
+188,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Site Oficial,2023-07-07,320,Não,
+189,Fiz uma reclamação e não obtive resposta até hoje.,Twitter,2023-07-08,197,Não,
+190,A encomenda demorou muito mais do que o prometido.,Twitter,2023-07-09,265,Sim,16.0
+191,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Twitter,2023-07-10,187,Não,
+192,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Facebook,2023-07-11,188,Sim,35.0
+193,"Adorei a experiência, desde a compra até a entrega.",Trustpilot,2023-07-12,122,Não,
+194,"Entrega rápida e eficiente, voltarei a comprar.",Google Reviews,2023-07-13,208,Não,
+195,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Site Oficial,2023-07-14,398,Sim,35.0
+196,O produto veio com defeito e não me deram solução.,Trustpilot,2023-07-15,490,Sim,15.0
+197,"Adorei a experiência, desde a compra até a entrega.",Site Oficial,2023-07-16,479,Não,
+198,O produto veio com defeito e não me deram solução.,Site Oficial,2023-07-17,347,Sim,47.0
+199,A encomenda demorou muito mais do que o prometido.,Site Oficial,2023-07-18,247,Não,
+200,"Entrega rápida e eficiente, voltarei a comprar.",Trustpilot,2023-07-19,232,Sim,40.0
+201,A qualidade do produto não corresponde ao que foi anunciado.,Trustpilot,2023-07-20,133,Sim,53.0
+202,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Facebook,2023-07-21,249,Sim,27.0
+203,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Trustpilot,2023-07-22,386,Não,
+204,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Trustpilot,2023-07-23,134,Não,
+205,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Site Oficial,2023-07-24,486,Não,
+206,O atendimento ao cliente é muito lento e pouco prestável.,Google Reviews,2023-07-25,0,Não,
+207,"Demoraram muito para processar o pagamento, foi frustrante.",Twitter,2023-07-26,452,Não,
+208,"Muito satisfeito com a compra, recomendo a todos.",Site Oficial,2023-07-27,84,Sim,17.0
+209,"Adorei a experiência, desde a compra até a entrega.",Site Oficial,2023-07-28,429,Não,
+210,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Trustpilot,2023-07-29,308,Sim,2.0
+211,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Google Reviews,2023-07-30,390,Não,
+212,"Adorei a experiência, desde a compra até a entrega.",Google Reviews,2023-07-31,221,Não,
+213,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Facebook,2023-08-01,432,Não,
+214,O atendimento ao cliente é muito lento e pouco prestável.,Google Reviews,2023-08-02,138,Sim,33.0
+215,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Google Reviews,2023-08-03,85,Não,
+216,Fiz uma reclamação e não obtive resposta até hoje.,Google Reviews,2023-08-04,157,Não,
+217,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Google Reviews,2023-08-05,171,Não,
+218,O atendimento ao cliente é muito lento e pouco prestável.,Facebook,2023-08-06,17,Não,
+219,A qualidade do produto não corresponde ao que foi anunciado.,Trustpilot,2023-08-07,364,Não,
+220,Fiz uma reclamação e não obtive resposta até hoje.,Twitter,2023-08-08,209,Sim,51.0
+221,"Nunca mais compro aqui, experiência horrível!",Site Oficial,2023-08-09,145,Não,
+222,O atendimento ao cliente é muito lento e pouco prestável.,Twitter,2023-08-10,89,Sim,71.0
+223,A encomenda demorou muito mais do que o prometido.,Trustpilot,2023-08-11,465,Não,
+224,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Facebook,2023-08-12,425,Sim,35.0
+225,O atendimento foi excelente e muito rápido!,Twitter,2023-08-13,181,Não,
+226,A encomenda demorou muito mais do que o prometido.,Site Oficial,2023-08-14,124,Sim,13.0
+227,"Muito satisfeito com a compra, recomendo a todos.",Site Oficial,2023-08-15,78,Não,
+228,"Entrega rápida e eficiente, voltarei a comprar.",Trustpilot,2023-08-16,319,Sim,41.0
+229,"Adorei a experiência, desde a compra até a entrega.",Twitter,2023-08-17,237,Não,
+230,O atendimento ao cliente é muito lento e pouco prestável.,Site Oficial,2023-08-18,400,Sim,53.0
+231,"Demoraram muito para processar o pagamento, foi frustrante.",Facebook,2023-08-19,54,Sim,27.0
+232,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Site Oficial,2023-08-20,453,Não,
+233,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Site Oficial,2023-08-21,45,Não,
+234,"Nunca mais compro aqui, experiência horrível!",Google Reviews,2023-08-22,150,Sim,1.0
+235,A encomenda demorou muito mais do que o prometido.,Twitter,2023-08-23,322,Não,
+236,Fiz uma reclamação e não obtive resposta até hoje.,Facebook,2023-08-24,85,Não,
+237,A encomenda demorou muito mais do que o prometido.,Facebook,2023-08-25,419,Não,
+238,"Produto de ótima qualidade, superou as minhas expectativas.",Facebook,2023-08-26,394,Sim,43.0
+239,O atendimento ao cliente é muito lento e pouco prestável.,Twitter,2023-08-27,141,Não,
+240,O produto veio com defeito e não me deram solução.,Facebook,2023-08-28,341,Não,
+241,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Trustpilot,2023-08-29,320,Sim,19.0
+242,O produto veio com defeito e não me deram solução.,Trustpilot,2023-08-30,363,Sim,7.0
+243,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Twitter,2023-08-31,173,Não,
+244,"Muito satisfeito com a compra, recomendo a todos.",Site Oficial,2023-09-01,171,Sim,9.0
+245,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Trustpilot,2023-09-02,480,Sim,34.0
+246,O atendimento ao cliente é muito lento e pouco prestável.,Facebook,2023-09-03,88,Não,
+247,O atendimento foi excelente e muito rápido!,Twitter,2023-09-04,358,Não,
+248,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Site Oficial,2023-09-05,37,Sim,58.0
+249,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Trustpilot,2023-09-06,413,Não,
+250,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Trustpilot,2023-09-07,259,Não,
+251,O atendimento ao cliente é muito lento e pouco prestável.,Google Reviews,2023-09-08,85,Sim,64.0
+252,O atendimento ao cliente é muito lento e pouco prestável.,Google Reviews,2023-09-09,104,Sim,13.0
+253,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Site Oficial,2023-09-10,214,Sim,35.0
+254,"Nunca mais compro aqui, experiência horrível!",Facebook,2023-09-11,471,Não,
+255,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Google Reviews,2023-09-12,258,Sim,14.0
+256,"Entrega rápida e eficiente, voltarei a comprar.",Facebook,2023-09-13,412,Sim,49.0
+257,O atendimento ao cliente é muito lento e pouco prestável.,Facebook,2023-09-14,449,Sim,4.0
+258,O atendimento ao cliente é muito lento e pouco prestável.,Twitter,2023-09-15,460,Não,
+259,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Twitter,2023-09-16,289,Não,
+260,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Trustpilot,2023-09-17,361,Não,
+261,A encomenda demorou muito mais do que o prometido.,Google Reviews,2023-09-18,328,Sim,55.0
+262,O atendimento foi excelente e muito rápido!,Trustpilot,2023-09-19,113,Sim,37.0
+263,O atendimento foi excelente e muito rápido!,Google Reviews,2023-09-20,453,Não,
+264,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Site Oficial,2023-09-21,18,Sim,53.0
+265,"Demoraram muito para processar o pagamento, foi frustrante.",Trustpilot,2023-09-22,402,Não,
+266,O atendimento ao cliente é muito lento e pouco prestável.,Twitter,2023-09-23,194,Não,
+267,"Muito satisfeito com a compra, recomendo a todos.",Twitter,2023-09-24,256,Sim,59.0
+268,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Site Oficial,2023-09-25,344,Não,
+269,Fiz uma reclamação e não obtive resposta até hoje.,Facebook,2023-09-26,261,Sim,18.0
+270,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Trustpilot,2023-09-27,180,Sim,55.0
+271,"Demoraram muito para processar o pagamento, foi frustrante.",Twitter,2023-09-28,482,Sim,58.0
+272,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Trustpilot,2023-09-29,290,Sim,5.0
+273,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Trustpilot,2023-09-30,170,Não,
+274,O atendimento foi excelente e muito rápido!,Facebook,2023-10-01,128,Não,
+275,O atendimento ao cliente é muito lento e pouco prestável.,Google Reviews,2023-10-02,417,Sim,38.0
+276,"Nunca mais compro aqui, experiência horrível!",Google Reviews,2023-10-03,255,Sim,62.0
+277,"Entrega rápida e eficiente, voltarei a comprar.",Site Oficial,2023-10-04,261,Não,
+278,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Facebook,2023-10-05,104,Sim,4.0
+279,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Twitter,2023-10-06,356,Não,
+280,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Site Oficial,2023-10-07,392,Não,
+281,"Demoraram muito para processar o pagamento, foi frustrante.",Site Oficial,2023-10-08,144,Sim,71.0
+282,"Produto de ótima qualidade, superou as minhas expectativas.",Site Oficial,2023-10-09,88,Não,
+283,Fiz uma reclamação e não obtive resposta até hoje.,Twitter,2023-10-10,413,Não,
+284,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Trustpilot,2023-10-11,159,Sim,8.0
+285,O atendimento ao cliente é muito lento e pouco prestável.,Trustpilot,2023-10-12,46,Não,
+286,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Google Reviews,2023-10-13,205,Não,
+287,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Facebook,2023-10-14,262,Não,
+288,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Facebook,2023-10-15,355,Não,
+289,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Facebook,2023-10-16,399,Não,
+290,"Demoraram muito para processar o pagamento, foi frustrante.",Trustpilot,2023-10-17,190,Não,
+291,"Entrega rápida e eficiente, voltarei a comprar.",Twitter,2023-10-18,105,Sim,54.0
+292,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Google Reviews,2023-10-19,117,Sim,60.0
+293,Fiz uma reclamação e não obtive resposta até hoje.,Google Reviews,2023-10-20,305,Sim,26.0
+294,"Entrega rápida e eficiente, voltarei a comprar.",Trustpilot,2023-10-21,303,Não,
+295,"Adorei a experiência, desde a compra até a entrega.",Trustpilot,2023-10-22,244,Sim,45.0
+296,"Muito satisfeito com a compra, recomendo a todos.",Facebook,2023-10-23,342,Sim,22.0
+297,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Trustpilot,2023-10-24,250,Não,
+298,"Muito satisfeito com a compra, recomendo a todos.",Twitter,2023-10-25,184,Sim,39.0
+299,A qualidade do produto não corresponde ao que foi anunciado.,Facebook,2023-10-26,64,Não,
+300,"Demoraram muito para processar o pagamento, foi frustrante.",Facebook,2023-10-27,183,Sim,68.0
+301,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Twitter,2023-10-28,201,Sim,18.0
+302,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Facebook,2023-10-29,128,Sim,24.0
+303,"Muito satisfeito com a compra, recomendo a todos.",Facebook,2023-10-30,453,Não,
+304,"Entrega rápida e eficiente, voltarei a comprar.",Twitter,2023-10-31,118,Não,
+305,O produto veio com defeito e não me deram solução.,Facebook,2023-11-01,166,Sim,36.0
+306,A encomenda demorou muito mais do que o prometido.,Google Reviews,2023-11-02,314,Não,
+307,"Entrega rápida e eficiente, voltarei a comprar.",Site Oficial,2023-11-03,368,Não,
+308,Fiz uma reclamação e não obtive resposta até hoje.,Twitter,2023-11-04,175,Não,
+309,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Twitter,2023-11-05,407,Sim,37.0
+310,O atendimento ao cliente é muito lento e pouco prestável.,Twitter,2023-11-06,244,Sim,6.0
+311,"Muito satisfeito com a compra, recomendo a todos.",Twitter,2023-11-07,491,Sim,64.0
+312,"Muito satisfeito com a compra, recomendo a todos.",Site Oficial,2023-11-08,26,Não,
+313,O produto veio com defeito e não me deram solução.,Site Oficial,2023-11-09,414,Não,
+314,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Google Reviews,2023-11-10,199,Não,
+315,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Twitter,2023-11-11,213,Sim,57.0
+316,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Google Reviews,2023-11-12,262,Sim,15.0
+317,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Twitter,2023-11-13,128,Sim,27.0
+318,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Site Oficial,2023-11-14,147,Não,
+319,O produto veio com defeito e não me deram solução.,Google Reviews,2023-11-15,222,Sim,44.0
+320,"Muito satisfeito com a compra, recomendo a todos.",Twitter,2023-11-16,316,Sim,30.0
+321,A encomenda demorou muito mais do que o prometido.,Site Oficial,2023-11-17,217,Sim,6.0
+322,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Site Oficial,2023-11-18,129,Não,
+323,"Demoraram muito para processar o pagamento, foi frustrante.",Google Reviews,2023-11-19,152,Não,
+324,O atendimento foi excelente e muito rápido!,Twitter,2023-11-20,290,Sim,63.0
+325,A encomenda demorou muito mais do que o prometido.,Twitter,2023-11-21,97,Não,
+326,"Entrega rápida e eficiente, voltarei a comprar.",Twitter,2023-11-22,309,Sim,2.0
+327,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Google Reviews,2023-11-23,187,Não,
+328,A qualidade do produto não corresponde ao que foi anunciado.,Trustpilot,2023-11-24,349,Sim,50.0
+329,"Muito satisfeito com a compra, recomendo a todos.",Twitter,2023-11-25,46,Sim,3.0
+330,"Nunca mais compro aqui, experiência horrível!",Google Reviews,2023-11-26,362,Sim,20.0
+331,Fiz uma reclamação e não obtive resposta até hoje.,Site Oficial,2023-11-27,266,Sim,71.0
+332,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Google Reviews,2023-11-28,326,Não,
+333,"Demoraram muito para processar o pagamento, foi frustrante.",Twitter,2023-11-29,171,Não,
+334,"Muito satisfeito com a compra, recomendo a todos.",Twitter,2023-11-30,369,Sim,34.0
+335,O atendimento ao cliente é muito lento e pouco prestável.,Facebook,2023-12-01,498,Sim,11.0
+336,A qualidade do produto não corresponde ao que foi anunciado.,Google Reviews,2023-12-02,447,Sim,6.0
+337,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Facebook,2023-12-03,492,Sim,31.0
+338,A qualidade do produto não corresponde ao que foi anunciado.,Facebook,2023-12-04,24,Sim,24.0
+339,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Google Reviews,2023-12-05,157,Não,
+340,A encomenda demorou muito mais do que o prometido.,Twitter,2023-12-06,298,Sim,49.0
+341,"Produto de ótima qualidade, superou as minhas expectativas.",Facebook,2023-12-07,328,Não,
+342,"Nunca mais compro aqui, experiência horrível!",Twitter,2023-12-08,288,Não,
+343,A qualidade do produto não corresponde ao que foi anunciado.,Google Reviews,2023-12-09,328,Sim,0.0
+344,A qualidade do produto não corresponde ao que foi anunciado.,Site Oficial,2023-12-10,479,Sim,71.0
+345,O atendimento ao cliente é muito lento e pouco prestável.,Twitter,2023-12-11,42,Não,
+346,O atendimento foi excelente e muito rápido!,Twitter,2023-12-12,127,Não,
+347,O atendimento ao cliente é muito lento e pouco prestável.,Trustpilot,2023-12-13,406,Não,
+348,O produto veio com defeito e não me deram solução.,Site Oficial,2023-12-14,196,Sim,30.0
+349,Fiz uma reclamação e não obtive resposta até hoje.,Facebook,2023-12-15,238,Não,
+350,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Twitter,2023-12-16,267,Não,
+351,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Site Oficial,2023-12-17,179,Sim,13.0
+352,"Entrega rápida e eficiente, voltarei a comprar.",Trustpilot,2023-12-18,333,Sim,8.0
+353,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Google Reviews,2023-12-19,25,Não,
+354,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Trustpilot,2023-12-20,386,Sim,36.0
+355,Fiz uma reclamação e não obtive resposta até hoje.,Facebook,2023-12-21,465,Sim,46.0
+356,Fiz uma reclamação e não obtive resposta até hoje.,Site Oficial,2023-12-22,194,Sim,6.0
+357,"Adorei a experiência, desde a compra até a entrega.",Facebook,2023-12-23,39,Sim,14.0
+358,"Produto de ótima qualidade, superou as minhas expectativas.",Google Reviews,2023-12-24,405,Sim,3.0
+359,"Entrega rápida e eficiente, voltarei a comprar.",Facebook,2023-12-25,121,Sim,53.0
+360,"Produto de ótima qualidade, superou as minhas expectativas.",Site Oficial,2023-12-26,140,Sim,2.0
+361,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Site Oficial,2023-12-27,402,Sim,34.0
+362,"Adorei a experiência, desde a compra até a entrega.",Twitter,2023-12-28,497,Não,
+363,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Site Oficial,2023-12-29,97,Sim,16.0
+364,A qualidade do produto não corresponde ao que foi anunciado.,Site Oficial,2023-12-30,155,Sim,21.0
+365,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Trustpilot,2023-12-31,315,Não,
+366,"Entrega rápida e eficiente, voltarei a comprar.",Trustpilot,2024-01-01,89,Não,
+367,O produto veio com defeito e não me deram solução.,Twitter,2024-01-02,447,Não,
+368,"Muito satisfeito com a compra, recomendo a todos.",Trustpilot,2024-01-03,20,Não,
+369,"Produto de ótima qualidade, superou as minhas expectativas.",Twitter,2024-01-04,398,Sim,47.0
+370,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Twitter,2024-01-05,402,Sim,30.0
+371,O atendimento foi excelente e muito rápido!,Site Oficial,2024-01-06,71,Sim,38.0
+372,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Twitter,2024-01-07,278,Sim,10.0
+373,"Muito satisfeito com a compra, recomendo a todos.",Twitter,2024-01-08,321,Não,
+374,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Google Reviews,2024-01-09,151,Sim,48.0
+375,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Google Reviews,2024-01-10,157,Não,
+376,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Facebook,2024-01-11,446,Sim,7.0
+377,"Entrega rápida e eficiente, voltarei a comprar.",Google Reviews,2024-01-12,444,Não,
+378,Fiz uma reclamação e não obtive resposta até hoje.,Google Reviews,2024-01-13,318,Não,
+379,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Site Oficial,2024-01-14,177,Não,
+380,"Demoraram muito para processar o pagamento, foi frustrante.",Google Reviews,2024-01-15,392,Sim,53.0
+381,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Trustpilot,2024-01-16,319,Não,
+382,"Adorei a experiência, desde a compra até a entrega.",Trustpilot,2024-01-17,15,Não,
+383,"Demoraram muito para processar o pagamento, foi frustrante.",Google Reviews,2024-01-18,51,Sim,14.0
+384,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Site Oficial,2024-01-19,377,Sim,13.0
+385,O produto veio com defeito e não me deram solução.,Site Oficial,2024-01-20,138,Sim,60.0
+386,"Nunca mais compro aqui, experiência horrível!",Facebook,2024-01-21,308,Não,
+387,"Demoraram muito para processar o pagamento, foi frustrante.",Site Oficial,2024-01-22,170,Sim,42.0
+388,"Produto de ótima qualidade, superou as minhas expectativas.",Twitter,2024-01-23,11,Sim,39.0
+389,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Site Oficial,2024-01-24,145,Não,
+390,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Facebook,2024-01-25,397,Sim,68.0
+391,"Demoraram muito para processar o pagamento, foi frustrante.",Site Oficial,2024-01-26,420,Não,
+392,"Adorei a experiência, desde a compra até a entrega.",Google Reviews,2024-01-27,120,Não,
+393,Fiz uma reclamação e não obtive resposta até hoje.,Site Oficial,2024-01-28,487,Sim,16.0
+394,O atendimento foi excelente e muito rápido!,Trustpilot,2024-01-29,62,Não,
+395,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Trustpilot,2024-01-30,257,Sim,6.0
+396,"Demoraram muito para processar o pagamento, foi frustrante.",Twitter,2024-01-31,406,Sim,66.0
+397,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Twitter,2024-02-01,401,Sim,11.0
+398,A qualidade do produto não corresponde ao que foi anunciado.,Trustpilot,2024-02-02,214,Não,
+399,O atendimento foi excelente e muito rápido!,Twitter,2024-02-03,203,Não,
+400,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Site Oficial,2024-02-04,173,Não,
+401,O atendimento foi excelente e muito rápido!,Facebook,2024-02-05,310,Não,
+402,A encomenda demorou muito mais do que o prometido.,Facebook,2024-02-06,15,Não,
+403,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Facebook,2024-02-07,347,Sim,38.0
+404,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Trustpilot,2024-02-08,42,Sim,42.0
+405,"Adorei a experiência, desde a compra até a entrega.",Twitter,2024-02-09,144,Sim,51.0
+406,"Nunca mais compro aqui, experiência horrível!",Facebook,2024-02-10,456,Não,
+407,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Twitter,2024-02-11,477,Não,
+408,"Estou muito contente com o serviço prestado, foi tudo perfeito.",Twitter,2024-02-12,344,Sim,7.0
+409,"Nunca mais compro aqui, experiência horrível!",Facebook,2024-02-13,364,Não,
+410,"Produto de ótima qualidade, superou as minhas expectativas.",Google Reviews,2024-02-14,293,Não,
+411,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Trustpilot,2024-02-15,163,Sim,25.0
+412,"Muito satisfeito com a compra, recomendo a todos.",Twitter,2024-02-16,123,Não,
+413,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Twitter,2024-02-17,186,Sim,4.0
+414,"Adorei a experiência, desde a compra até a entrega.",Facebook,2024-02-18,39,Sim,25.0
+415,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Facebook,2024-02-19,362,Sim,6.0
+416,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Google Reviews,2024-02-20,0,Não,
+417,Fiz uma reclamação e não obtive resposta até hoje.,Trustpilot,2024-02-21,33,Sim,64.0
+418,"Demoraram muito para processar o pagamento, foi frustrante.",Twitter,2024-02-22,433,Sim,60.0
+419,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Google Reviews,2024-02-23,238,Não,
+420,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Facebook,2024-02-24,378,Sim,63.0
+421,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Trustpilot,2024-02-25,222,Sim,40.0
+422,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Site Oficial,2024-02-26,23,Sim,19.0
+423,A encomenda demorou muito mais do que o prometido.,Twitter,2024-02-27,141,Sim,44.0
+424,"Muito satisfeito com a compra, recomendo a todos.",Site Oficial,2024-02-28,410,Sim,39.0
+425,"Nunca mais compro aqui, experiência horrível!",Facebook,2024-02-29,492,Sim,55.0
+426,O produto veio com defeito e não me deram solução.,Twitter,2024-03-01,413,Sim,66.0
+427,A qualidade do produto não corresponde ao que foi anunciado.,Trustpilot,2024-03-02,412,Sim,58.0
+428,O produto veio com defeito e não me deram solução.,Site Oficial,2024-03-03,387,Não,
+429,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Twitter,2024-03-04,95,Sim,56.0
+430,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Trustpilot,2024-03-05,316,Não,
+431,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Google Reviews,2024-03-06,369,Sim,67.0
+432,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Facebook,2024-03-07,261,Não,
+433,"Demoraram muito para processar o pagamento, foi frustrante.",Site Oficial,2024-03-08,385,Sim,8.0
+434,"Produto de ótima qualidade, superou as minhas expectativas.",Site Oficial,2024-03-09,306,Sim,21.0
+435,"Demoraram muito para processar o pagamento, foi frustrante.",Site Oficial,2024-03-10,371,Não,
+436,"Muito satisfeito com a compra, recomendo a todos.",Trustpilot,2024-03-11,342,Não,
+437,"Produto de ótima qualidade, superou as minhas expectativas.",Facebook,2024-03-12,141,Não,
+438,"Adorei a experiência, desde a compra até a entrega.",Facebook,2024-03-13,454,Sim,53.0
+439,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Twitter,2024-03-14,407,Não,
+440,"Muito satisfeito com a compra, recomendo a todos.",Twitter,2024-03-15,180,Não,
+441,A encomenda demorou muito mais do que o prometido.,Site Oficial,2024-03-16,40,Não,
+442,A encomenda demorou muito mais do que o prometido.,Twitter,2024-03-17,177,Não,
+443,"Adorei a experiência, desde a compra até a entrega.",Trustpilot,2024-03-18,60,Não,
+444,"Nunca mais compro aqui, experiência horrível!",Site Oficial,2024-03-19,174,Sim,22.0
+445,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Trustpilot,2024-03-20,297,Não,
+446,A encomenda demorou muito mais do que o prometido.,Site Oficial,2024-03-21,18,Não,
+447,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Site Oficial,2024-03-22,467,Não,
+448,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Twitter,2024-03-23,344,Sim,23.0
+449,"Muito satisfeito com a compra, recomendo a todos.",Twitter,2024-03-24,240,Sim,62.0
+450,Fiz uma reclamação e não obtive resposta até hoje.,Twitter,2024-03-25,311,Sim,36.0
+451,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Google Reviews,2024-03-26,434,Não,
+452,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Trustpilot,2024-03-27,500,Não,
+453,Fiz uma reclamação e não obtive resposta até hoje.,Facebook,2024-03-28,195,Sim,67.0
+454,Fiz uma reclamação e não obtive resposta até hoje.,Facebook,2024-03-29,359,Não,
+455,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Facebook,2024-03-30,373,Sim,33.0
+456,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Site Oficial,2024-03-31,336,Não,
+457,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Trustpilot,2024-04-01,190,Sim,70.0
+458,O atendimento ao cliente é muito lento e pouco prestável.,Twitter,2024-04-02,220,Sim,60.0
+459,"Nunca mais compro aqui, experiência horrível!",Site Oficial,2024-04-03,367,Sim,32.0
+460,"Demoraram muito para processar o pagamento, foi frustrante.",Google Reviews,2024-04-04,446,Não,
+461,"Demoraram muito para processar o pagamento, foi frustrante.",Site Oficial,2024-04-05,174,Não,
+462,O atendimento foi excelente e muito rápido!,Site Oficial,2024-04-06,10,Sim,5.0
+463,O produto veio com defeito e não me deram solução.,Google Reviews,2024-04-07,48,Sim,63.0
+464,"Nunca mais compro aqui, experiência horrível!",Site Oficial,2024-04-08,356,Sim,7.0
+465,O atendimento ao cliente é muito lento e pouco prestável.,Facebook,2024-04-09,494,Não,
+466,"Demoraram muito para processar o pagamento, foi frustrante.",Site Oficial,2024-04-10,463,Sim,67.0
+467,A encomenda demorou muito mais do que o prometido.,Site Oficial,2024-04-11,186,Sim,71.0
+468,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Site Oficial,2024-04-12,47,Não,
+469,A qualidade do produto não corresponde ao que foi anunciado.,Trustpilot,2024-04-13,311,Não,
+470,"Demoraram muito para processar o pagamento, foi frustrante.",Facebook,2024-04-14,331,Sim,68.0
+471,A encomenda demorou muito mais do que o prometido.,Google Reviews,2024-04-15,261,Não,
+472,A encomenda demorou muito mais do que o prometido.,Site Oficial,2024-04-16,345,Não,
+473,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Site Oficial,2024-04-17,56,Sim,2.0
+474,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Facebook,2024-04-18,453,Não,
+475,"Muito satisfeito com a compra, recomendo a todos.",Google Reviews,2024-04-19,116,Não,
+476,Fiz uma reclamação e não obtive resposta até hoje.,Site Oficial,2024-04-20,348,Não,
+477,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Google Reviews,2024-04-21,487,Sim,29.0
+478,A encomenda demorou muito mais do que o prometido.,Twitter,2024-04-22,365,Não,
+479,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Trustpilot,2024-04-23,308,Sim,32.0
+480,O atendimento ao cliente é muito lento e pouco prestável.,Twitter,2024-04-24,333,Sim,14.0
+481,A qualidade do produto não corresponde ao que foi anunciado.,Facebook,2024-04-25,356,Não,
+482,Péssimo serviço! Esperei mais de uma hora para ser atendido.,Facebook,2024-04-26,418,Sim,7.0
+483,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Google Reviews,2024-04-27,343,Não,
+484,Fiz uma reclamação e não obtive resposta até hoje.,Twitter,2024-04-28,30,Não,
+485,"O site é muito intuitivo e fácil de usar, facilitou bastante a compra.",Twitter,2024-04-29,385,Sim,12.0
+486,"Ótimo suporte ao cliente, resolveram a minha dúvida imediatamente.",Trustpilot,2024-04-30,62,Não,
+487,"Nunca mais compro aqui, experiência horrível!",Site Oficial,2024-05-01,426,Sim,32.0
+488,"Entrega rápida e eficiente, voltarei a comprar.",Google Reviews,2024-05-02,488,Sim,71.0
+489,O atendimento ao cliente é muito lento e pouco prestável.,Site Oficial,2024-05-03,7,Sim,22.0
+490,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Facebook,2024-05-04,401,Sim,14.0
+491,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Trustpilot,2024-05-05,12,Sim,1.0
+492,A encomenda chegou dentro do prazo e o produto era exatamente como esperado.,Twitter,2024-05-06,235,Não,
+493,O produto veio com defeito e não me deram solução.,Google Reviews,2024-05-07,469,Sim,19.0
+494,A qualidade do produto não corresponde ao que foi anunciado.,Twitter,2024-05-08,164,Sim,30.0
+495,"Excelente comunicação, recebi atualizações constantes sobre a encomenda.",Google Reviews,2024-05-09,451,Não,
+496,"O suporte não resolveu o meu problema, só me fizeram perder tempo.",Facebook,2024-05-10,148,Sim,70.0
+497,"O site apresentou erros durante a compra, tive que tentar várias vezes.",Facebook,2024-05-11,318,Não,
+498,O atendimento ao cliente é muito lento e pouco prestável.,Facebook,2024-05-12,122,Sim,15.0
+499,A encomenda demorou muito mais do que o prometido.,Google Reviews,2024-05-13,472,Sim,69.0
+500,"Nunca mais compro aqui, experiência horrível!",Facebook,2024-05-14,193,Não,
